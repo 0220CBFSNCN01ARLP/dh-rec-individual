@@ -11,7 +11,7 @@ como ultima instancia para la aprovacion del curso.
 
 La idea es que a partir de este proyecto, puedas implementar una extension basandote en el siguiente diseño:
 
-![Diagrama Entidad-Relacion](docs/DER.jpg?raw=true)
+![Diagrama Entidad-Relacion](docs/der.jpg?raw=true)
 
 Las entidades en las que te tenes que concentrar en implementar son: `Serie`, `Season` y `Episode`, asi como tambien las tablas pivot necesarias y las asociaciones con las entidades ya implementadas.
 
